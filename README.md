@@ -1,4 +1,4 @@
-# S 5610
+# CS 5610
 
 ## Lab 3: CSS and JS
 
@@ -29,7 +29,7 @@ Follow the instructions in the assignment to write CSS for:
 
 **Output:**
 
-![A blue square with white squares](image-link-here)
+![A blue square with white squares](https://github.com/hazraimran/5610_labquiz3/issues/1#issue-2549103349)
 
 ---
 
