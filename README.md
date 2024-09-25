@@ -29,7 +29,7 @@ Follow the instructions in the assignment to write CSS for:
 
 **Output:**
 
-![A blue square with white squares](https://github.com/hazraimran/5610_labquiz3/issues/1#issue-2549103349)
+![A blue square with white squares](images/1.JPG)
 
 ---
 
