@@ -42,7 +42,7 @@ Follow the instructions in the assignment to write CSS for:
 
 **Output:**
 
-![Output image here](image-link-here)
+![Output image here](images/2.JPG)
 
 ---
 
@@ -54,7 +54,7 @@ Follow the instructions in the assignment to write CSS for:
 
 **Output:**
 
-![Positioned element output](image-link-here)
+![Positioned element output](images/3.JPG)
 
 ---
 
@@ -90,4 +90,4 @@ Follow the instructions in the assignment to write CSS for:
 
 **Output:**
 
-![Float layout output](image-link-here)
+![Float layout output](images/4.JPG)
